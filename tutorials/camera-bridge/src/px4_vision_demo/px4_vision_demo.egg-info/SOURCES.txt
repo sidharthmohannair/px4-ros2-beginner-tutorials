@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+px4_vision_demo/__init__.py
+px4_vision_demo/camera_subscriber.py
+px4_vision_demo.egg-info/PKG-INFO
+px4_vision_demo.egg-info/SOURCES.txt
+px4_vision_demo.egg-info/dependency_links.txt
+px4_vision_demo.egg-info/entry_points.txt
+px4_vision_demo.egg-info/requires.txt
+px4_vision_demo.egg-info/top_level.txt
+px4_vision_demo.egg-info/zip-safe
+resource/px4_vision_demo
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

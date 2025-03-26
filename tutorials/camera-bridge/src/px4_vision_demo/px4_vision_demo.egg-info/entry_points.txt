@@ -1,0 +1,3 @@
+[console_scripts]
+camera_subscriber = px4_vision_demo.camera_subscriber:main
+

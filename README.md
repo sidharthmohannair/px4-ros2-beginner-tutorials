@@ -75,7 +75,7 @@ This tutorial covers:
 - Bridging the camera feed to ROS 2
 - Visualizing and processing the camera data
 
-[Go to Camera Bridge Tutorial →](camera-bridge/)
+[Go to Camera Bridge Tutorial →](/tutorials/camera-bridge/README.md)
 
 ## 📝 Feedback & Contributions
 
